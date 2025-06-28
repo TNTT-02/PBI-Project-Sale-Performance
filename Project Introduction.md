@@ -4,7 +4,7 @@
 
 **Project Title**:  PBI-Project-Sale-Performance
 
-**Database**: Finance Data
+**Database**: [Finance Data](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download)
 
 **Data capacity**: Includes 1 files, total 701 rows of data
 
