@@ -26,7 +26,7 @@ Basic data cleaning: Use Power Query to removed duplicates, standardized column 
 **Calculated Table:**
 `Weekday Table`: Custom table created in DAX for weekday sorting logic
 
-**Measures:***
+**Measures:**
 - `Revenue`, `Profit`, `Total Cost`
 - `Profit Margin`, `Average Revenue`, `Quantity Sold`
 
