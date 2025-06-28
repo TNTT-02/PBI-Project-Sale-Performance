@@ -40,6 +40,8 @@ Basic data cleaning: Use Power Query to removed duplicates, standardized column 
 **Interactivity:**
 - Slicers: Product, Year, Customer Segment, Discount Band
 - Drill-down features for deeper product and regional analysis
+![image](https://github.com/user-attachments/assets/998acc09-5b60-418c-8a34-f6c868e8b6ba)
+
 
 ### 4. Insights & Findings
 - The **USA** generated the highest revenue, mainly from the **Small Business** segment
