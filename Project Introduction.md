@@ -40,11 +40,11 @@ Basic data cleaning: Use Power Query to removed duplicates, standardized column 
 **Interactivity:**
 - Slicers: Product, Year, Customer Segment, Discount Band
 - Drill-down features for deeper product and regional analysis
-![image](https://github.com/user-attachments/assets/998acc09-5b60-418c-8a34-f6c868e8b6ba)
-
 
 ### 4. Insights & Findings
 - The **USA** generated the highest revenue, mainly from the **Small Business** segment
 - **Mexico** had the lowest sales overall
 - **Paseo** was the top-selling product, generating **~$8M**, mostly from Mexico
 - **December 2014** was the peak month for Paseo, with **$4.9M** in sales
+
+![image](https://github.com/user-attachments/assets/998acc09-5b60-418c-8a34-f6c868e8b6ba)
